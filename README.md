@@ -1,2 +1,16 @@
-# student-result-management-system
-A python based system to manage student results and calculate grades
+# Student Result Management System
+
+A simple Python-based application to manage student academic results.
+
+## Features
+- Enter student details and marks
+- Calculate total, percentage, and grade
+- Store results in a text file
+- Console-based and beginner-friendly
+
+## Technologies Used
+- Python
+
+## How to Run
+1. Clone the repository
+2. Run the file using:
