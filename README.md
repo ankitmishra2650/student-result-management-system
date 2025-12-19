@@ -14,3 +14,10 @@ A simple Python-based application to manage student academic results.
 ## How to Run
 1. Clone the repository
 2. Run the file using:
+
+
+## Learning Outcomes
+- Python fundamentals
+- Functions and loops
+- File handling
+- Problem-solving skills
